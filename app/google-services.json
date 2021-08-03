@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812490155168",
+    "project_id": "dif-cafe-bar",
+    "storage_bucket": "dif-cafe-bar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812490155168:android:2b3474dad15ae75e54d5c5",
+        "android_client_info": {
+          "package_name": "com.example.dif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812490155168-19p8l2cfpf7pp8t70srqpqjqv7083m2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXG2GaEgFTTYspOTjbCYu4G-cOP4H39g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812490155168-19p8l2cfpf7pp8t70srqpqjqv7083m2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
